@@ -20,11 +20,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Item 1 Part 1 (Create Virtual Machine in Azure)
+- Item 2 Part 2 (Installation)
+- Item 3 Part 3 (Post Installation Setup)
+- Item 4 Part 4 (Tickets and Ticket Lifecycle)
 
 <h2>Configuration Steps</h2>
 
